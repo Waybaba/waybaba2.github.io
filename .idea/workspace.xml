@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="144424cb-e8b1-406d-8681-37ef7062f372" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/caidan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caidan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caidan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caidan_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caidan_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caidan_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caidan_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caidan_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/empty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style-desktop.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,13 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="caidan.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/caidan.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+            <state relative-caret-position="255">
+              <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sheet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sheet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
               <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#tr#1;n#table#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#tr#2;n#table#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#tr#3;n#table#1;n#body#0;n#html#0;n#!!top" />
@@ -31,16 +50,101 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testsheet.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsheet.html">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="mainpage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainpage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="70" lean-forward="true" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="empty.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/empty.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="31" selection-end-line="87" />
+              <folding>
+                <element signature="n#tr#1;n#table#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#2;n#table#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#3;n#table#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#4;n#table#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#5;n#table#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="caidan_5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/caidan_5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="caidan_1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/caidan_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="caidan.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/caidan.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="caidan_4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/caidan_4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="caidan.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/caidan.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>homepage</find>
+      <find>TOP</find>
+      <find>data-src</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -50,6 +154,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/caidan.css" />
+        <option value="$PROJECT_DIR$/caidan.4.html" />
+        <option value="$PROJECT_DIR$/caidan_2.html" />
+        <option value="$PROJECT_DIR$/caidan_1.html" />
+        <option value="$PROJECT_DIR$/caidan_5.html" />
+        <option value="$PROJECT_DIR$/caidan_4.html" />
+        <option value="$PROJECT_DIR$/caidan_3.html" />
+        <option value="$PROJECT_DIR$/mainpage.html" />
+        <option value="$PROJECT_DIR$/empty.html" />
+        <option value="$PROJECT_DIR$/caidan.js" />
+        <option value="$PROJECT_DIR$/sheet.html" />
+        <option value="$PROJECT_DIR$/caidan.html" />
       </list>
     </option>
   </component>
@@ -62,7 +178,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="724" />
@@ -88,8 +204,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -119,19 +237,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="724" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13085622" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.14672364" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14216478" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -189,18 +307,119 @@
     <entry file="file://$PROJECT_DIR$/testsheet.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/caidan.4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caidan_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caidan_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsheet_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="e#441#570#0" />
+            <element signature="e#581#766#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="70" lean-forward="true" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caidan_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caidan_4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caidan_5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caidan.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sheet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
             <element signature="n#tr#1;n#table#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#tr#2;n#table#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#tr#3;n#table#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#tr#4;n#table#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#tr#5;n#table#1;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caidan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/empty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-end-line="87" />
+          <folding>
+            <element signature="n#tr#1;n#table#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#2;n#table#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#3;n#table#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#4;n#table#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#5;n#table#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caidan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
         </state>
       </provider>
     </entry>
